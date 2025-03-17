@@ -1,0 +1,12 @@
+.carrusel-container {
+    padding: 50px 20px;
+    text-align: center;
+}
+
+.carrusel-slide img {
+    width: 100%;
+    max-width: 700px;
+    border-radius: 10px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+}
+

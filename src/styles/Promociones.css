@@ -1,0 +1,32 @@
+.promociones-container {
+    padding: 50px 20px;
+    text-align: center;
+}
+
+.promociones-lista {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 20px;
+}
+
+.promo-card {
+    padding: 15px;
+    border-radius: 10px;
+    color: white;
+    min-width: 200px;
+    text-align: center;
+}
+
+.oro {
+    background: gold;
+}
+
+.plata {
+    background: silver;
+}
+
+.bronce {
+    background: #cd7f32;
+}
